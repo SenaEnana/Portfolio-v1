@@ -6,3 +6,12 @@ Built with a modern, high-performance web stack, it is fully responsive, optimiz
 
 ---
 
+## 🛠️ Tech Stack & Architecture
+
+*   **Framework:** [Next.js](https://nextjs.org/) (App Router, React server components)
+*   **Styling:** [Tailwind CSS](https://tailwindcss.com/) (Utility-first CSS framework)
+*   **Email Integration:** [Resend](https://resend.com/) (For reliable, transactional contact form delivery)
+*   **Deployment:** [Vercel](https://vercel.com/) (Edge network hosting and continuous integration)
+
+---
+
