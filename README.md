@@ -59,3 +59,16 @@ Ensure you have **Node.js** (v18.x or later) installed on your machine.
    Open http://localhost:3000 in your browser to view your app.
    ```
 ---
+
+## 📦 Deployment
+
+This project is configured for seamless deployment on Vercel:
+
+* Push your code to a GitHub, GitLab, or Bitbucket repository.
+
+* Import the project into the Vercel Dashboard.
+
+* Add your production Environment Variables (RESEND_API_KEY) in the Vercel project settings.
+
+* Click Deploy. Vercel will automatically build and deploy the application on every git push to the main branch.
+
