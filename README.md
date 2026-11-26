@@ -72,3 +72,6 @@ This project is configured for seamless deployment on Vercel:
 
 * Click Deploy. Vercel will automatically build and deploy the application on every git push to the main branch.
 
+## 🤝 Contact
+
+Sena Adane - [Github](https://github.com/SenaEnana) - [LinkedIn](https://www.linkedin.com/in/sena-adane/) - senaad47@gmail.com
