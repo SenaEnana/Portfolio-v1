@@ -15,3 +15,12 @@ Built with a modern, high-performance web stack, it is fully responsive, optimiz
 
 ---
 
+## ✨ Features
+
+*   **Fast Loading & SEO Optimized:** Leverages Next.js Server Components, localized font loading, and strict image optimization.
+*   **Dynamic Contact Form:** Integrated with Resend API for instant email notifications when users reach out.
+*   **Responsive Layout:** Tailored design fluidly scaling across mobile, tablet, and desktop viewports.
+*   **Project Showcase:** Interactive CRUD features/filtering to display professional work and open-source applications.
+
+---
+
