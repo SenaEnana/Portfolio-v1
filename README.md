@@ -30,3 +30,25 @@ Built with a modern, high-performance web stack, it is fully responsive, optimiz
 
 Ensure you have **Node.js** (v18.x or later) installed on your machine.
 
+### Local Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SenaEnana/my-portfolio.git
+   cd my-portfolio
+   ```
+2. Install the project dependencies:
+   ```bash
+   npm install
+   ```
+   or
+
+   ```bash
+   yarn install
+   ```
+
+   or
+
+   ```bash
+   pnpm install
+   ```
