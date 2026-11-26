@@ -52,3 +52,10 @@ Ensure you have **Node.js** (v18.x or later) installed on your machine.
    ```bash
    pnpm install
    ```
+
+3. Spin up the local development server:
+   ```bash
+   npm run dev
+   Open http://localhost:3000 in your browser to view your app.
+   ```
+---
