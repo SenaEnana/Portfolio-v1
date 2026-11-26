@@ -24,3 +24,9 @@ Built with a modern, high-performance web stack, it is fully responsive, optimiz
 
 ---
 
+## ⚙️ Getting Started
+
+### Prerequisites
+
+Ensure you have **Node.js** (v18.x or later) installed on your machine.
+
